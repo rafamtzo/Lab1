@@ -1,0 +1,62 @@
+.menu{
+    background: orange;
+    width: 10%;
+    font-style: italic;
+    float: left;
+  }
+  
+  .titulo{
+    float: right; 
+    width: 80%;
+    margin: 1%;
+  }
+  
+  .img{
+    float: left;
+    height: 20%;
+    width: 20%;
+    padding: 1%;
+  }
+  
+  .obj{
+    background: orange;
+    float: left;
+    width: 30%;
+    padding: 1%;
+    margin: 1%;
+  }
+  
+  .exp{
+    background: green;
+    float: right;
+    width: 30%;
+    padding: 1%;
+    margin: 1%;
+  
+  }
+  
+  .ed{
+    background: red;
+    float: left;
+    width: 30%;
+    padding: 1%;
+    margin: 1%;
+  }
+  
+  .hab{
+    background: yellow;
+    float: right;
+    width: 30%;
+    padding: 1%;
+    margin: 1%;
+  }
+  
+  .link{
+    float: left;
+  }
+  
+  .clearfix{  
+    display: flow-root;
+    font-style: italic;
+    text-transform: uppercase;
+  }
